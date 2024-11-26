@@ -1,0 +1,4 @@
+
+pandas
+pyqt5
+lz4
