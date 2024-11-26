@@ -93,27 +93,27 @@ The GUI provides a more intuitive way to interact with the toolkit. Features inc
 
 ### 1. **Main Interface (GUI Mode)**
 
-<img src="screenshots\gui.PNG" style="zoom:67%;" />
+<img src="screenshots\gui.PNG" style="zoom:65%;" />
 
 
 
 ### 2. **History Tab**
 
-<img src="screenshots\history.PNG" style="zoom:67%;" />
+<img src="screenshots\history.PNG" style="zoom:65%;" />
 
 
 
 ### 3. **Downloads Tab**
 
-<img src="screenshots\download.PNG" style="zoom: 67%;" />
+<img src="screenshots\download.PNG" style="zoom: 65%;" />
 
 ### 4. **Cookies Tab**
 
-<img src="screenshots\cookies.PNG" style="zoom:67%;" />
+<img src="screenshots\cookies.PNG" style="zoom:65%;" />
 
 ### 5. **CLI Example Output**
 
-<img src="screenshots\cli.PNG" style="zoom:67%;" />
+<img src="screenshots\cli.PNG" style="zoom:65%;" />
 
 ## 🖥 Supported Browsers
 
