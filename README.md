@@ -93,31 +93,27 @@ The GUI provides a more intuitive way to interact with the toolkit. Features inc
 
 ### 1. **Main Interface (GUI Mode)**
 
-<img src="D:\GitHub_Project\jdmastermy\jdmastermy\Browsers_Parser\beta2\screenshots\gui.PNG" style="zoom:67%;" />
+<img src="screenshots\gui.PNG" style="zoom:67%;" />
 
 
 
 ### 2. **History Tab**
 
-<img src="D:\GitHub_Project\jdmastermy\jdmastermy\Browsers_Parser\beta2\screenshots\history.PNG" style="zoom:67%;" />
+<img src="screenshots\history.PNG" style="zoom:67%;" />
 
 
 
 ### 3. **Downloads Tab**
 
-
-
-<img src="D:\GitHub_Project\jdmastermy\jdmastermy\Browsers_Parser\beta2\screenshots\download.PNG" style="zoom: 67%;" />
+<img src="screenshots\download.PNG" style="zoom: 67%;" />
 
 ### 4. **Cookies Tab**
 
-
-
-<img src="D:\GitHub_Project\jdmastermy\jdmastermy\Browsers_Parser\beta2\screenshots\cookies.PNG" style="zoom:67%;" />
+<img src="screenshots\cookies.PNG" style="zoom:67%;" />
 
 ### 5. **CLI Example Output**
 
-<img src="D:\GitHub_Project\jdmastermy\jdmastermy\Browsers_Parser\beta2\screenshots\cli.PNG" style="zoom:67%;" />
+<img src="screenshots\cli.PNG" style="zoom:67%;" />
 
 ## 🖥 Supported Browsers
 
