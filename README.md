@@ -45,7 +45,7 @@ Whether you’re a digital forensic expert, a researcher, or simply curious abou
 Clone this repository and install the required dependencies:
 
 ```
-bashCopy codegit clone https://github.com/jdmastermy/BrowserForensicsToolkit.git
+git clone https://github.com/jdmastermy/BrowserForensicsToolkit.git
 cd BrowserForensicsToolkit
 pip install -r requirements.txt
 ```
